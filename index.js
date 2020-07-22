@@ -12,5 +12,8 @@ function currentLine(line){
   if(line.length){
     return "The line is currently empty."
   }
+  let i=0
+  var str="The line is currently: "
+  while
   return `The line is currently: ${...line}`
 }
