@@ -14,6 +14,8 @@ function currentLine(line){
   }
   let i=0
   var str="The line is currently: "
-  while
-  return `The line is currently: ${...line}`
+  while(){
+
+  }
+  return str
 }
